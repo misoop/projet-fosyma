@@ -117,3 +117,9 @@ Voici un exemple d'affichage de l’environnement, montrant les agents, trésors
 
 ![Exécution Dedale](capture.jpeg)
 
+---
+
+## Technologies
+- **Java**
+- **JADE**
+- **Dedale**
