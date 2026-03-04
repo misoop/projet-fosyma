@@ -120,6 +120,6 @@ Voici un exemple d'affichage de l’environnement, montrant les agents, trésors
 ---
 
 ## Technologies
-- **Java**
-- **JADE**
-- **Dedale**
+- Java
+- JADE
+- Dedale
